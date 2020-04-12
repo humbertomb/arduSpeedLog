@@ -1,4 +1,4 @@
-# Arduino Speed Log Mk I
+# Arduino Speed Log
 
 In this folder you can find files with the program and schematics of the control board for a simple paddlewheel based speed log. You can find the mechanical components for download at Thingiverse:
 
