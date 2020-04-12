@@ -11,7 +11,7 @@ The working procedure of the speed log is similar to those commercially availabl
 Components
 ----------
 
-You need the follwoing electronics compoents:
+You need the following electronic components:
 
 - 1 x Arduino UNO
 - 1 x Hall effect switch (ML 007-1)
